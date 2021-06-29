@@ -2,6 +2,7 @@
 This repository includes matlab code and py code which implement Prony's method via Matrix Pencil Method.
 
 The output parameter of the function is a (p × 4)matrix whose column vectors are amplitude, initial phase, attenuation factor, and frequency.
+$m=c^2$
 $$
 output=
 \left[\begin{matrix}
